@@ -161,7 +161,6 @@ footer {
   .projects-grid {
     grid-template-columns: repeat(2, 1fr);
   }
-
 }
 
 
@@ -175,5 +174,4 @@ footer {
   .projects-grid {
     grid-template-columns: repeat(3, 1fr);
   }
-
 }

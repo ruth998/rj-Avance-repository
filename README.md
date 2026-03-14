@@ -12,3 +12,7 @@ Dark mode
 
 desktop mode
 
+![Desktop Screenshot](Screenshot 2026-03-13 214417.png)
+
+Phone mode
+![Desktop Screenshot](foto1.png)

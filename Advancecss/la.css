@@ -1,4 +1,8 @@
 
+body{
+background: lightblue;
+}
+
 :root {
   --bg-color: #ffffff;
   --text-color: #222222;
